@@ -1,0 +1,2 @@
+# JavaScript Loose Typing and NaN
+This example demonstrates a common issue in JavaScript related to loose typing and arithmetic operations.  When performing arithmetic operations, JavaScript attempts type coercion, but this can lead to unexpected results, particularly when mixing numbers and strings.  The bug highlights how this can result in `NaN` (Not a Number). The solution demonstrates a robust approach to handle such situations and prevent unexpected outputs.
